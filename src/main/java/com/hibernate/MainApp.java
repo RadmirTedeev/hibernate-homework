@@ -1,4 +1,4 @@
-package com.geekbrains.lesson11.hibernate;
+package com.hibernate;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

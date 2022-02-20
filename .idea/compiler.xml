@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lesson-11-Hibernate-Part-1" />
+        <module name="hibernate" />
       </profile>
     </annotationProcessing>
   </component>
